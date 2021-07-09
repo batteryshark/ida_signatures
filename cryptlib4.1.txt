@@ -1,0 +1,10 @@
+
+This is signature file for
+
+-----------------------------------------------------------
+Crypto++: a C++ Class Library of Cryptographic Primitives
+
+Version 4.1  1/13/2000
+-----------------------------------------------------------
+
+(q) made by cr0aker / cr0aker@gmx.net / kickme.to/cr0aker

@@ -1,0 +1,20 @@
+------------------------------------------------------
+Sentinel Lib Functions IDA Sig File v1.12 by Killer_3K
+------------------------------------------------------
+
+This is the full sig file for IDA for the Sentinel libs. Fixed a few errors.
+
+-------------
+How to use it
+-------------
+
+just unzip the sig file to the Sig Directory in your IDA root dir, then after you've dasmed
+a file using IDA, goto View-->Signatures, right click on the list of applied sigs and
+choose "Apply new Signature", select the sig and after its finished processing you will
+(hopefully) have the Sentinel lib labelled.. :)
+
+
+If you find mistakes/new functions to add to the sig, email me at Killer_3K@hotmail.com
+w/ the first 20 bytes of the functions along with it's name :).
+
+-

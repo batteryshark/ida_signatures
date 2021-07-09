@@ -1,0 +1,32 @@
+IDA Signature: SentinelLM  C/C++ library
+version: rev2
+
+2007.06.14
+Add SentinelLM v8.0
+Add SentinelLM v8.0.2
+Fixed some obfuscated functions.
+
+2004.12.30 rev1:
+inculde:
+SentinelLM v7.0
+SentinelLM v7.0 SP2
+SentinelLM v7.1
+SentinelLM v7.1.1
+SentinelLM v7.1.2
+SentinelLM v7.2
+SentinelLM v7.2.0.1
+SentinelLM v7.2.0.3
+SentinelLM v7.2.0.4
+SentinelLM v7.2.0.5
+SentinelLM v7.2.0.6
+SentinelLM v7.2.0.8
+SentinelLM v7.2.0.9
+SentinelLM v7.2.0.12
+SentinelLM v7.2.0.18
+SentinelLM v7.3.0
+
+
+
+
+
+

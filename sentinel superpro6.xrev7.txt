@@ -1,0 +1,35 @@
+IDA Signature: Sentinel SuperPro v6.x C/C++ library
+version: rev7
+
+2007.04.11 rev7:
+Fixed some Sentinel obfuscated functions. (Thanks to Meteo)
+
+2007.03.01 rev6:
+Fixed Sentinel obfuscated functions. (Thanks to Meteo)
+
+2006.10.27 rev5:
+Add Sentinel SuperPro v6.4.4
+Add Sentinel SuperPro v6.4.3
+
+2006.03.11 rev4:
+Add Sentinel SuperPro v6.4.2
+Add Sentinel SuperPro v6.4.1
+
+2005.05.07 rev3:
+Add Sentinel SuperPro v6.4
+
+2004.12.31 rev2:
+Add Sentinel SuperPro v6.3.1.9
+Add Sentinel SuperPro v6.3.1.8
+Add Sentinel SuperPro v6.3.1.2
+Add Sentinel SuperPro v6.3.1.1
+
+2004.12.09 rev1:
+Add Sentinel SuperPro v6.3.1.10
+Add Sentinel SuperPro v6.3.1.4
+Add Sentinel SuperPro v6.3.1
+Add Sentinel SuperPro v6.3
+Add Sentinel SuperPro v6.2.1
+Add Sentinel SuperPro v6.2
+Add Sentinel SuperPro v6.1
+Add Sentinel SuperPro v6.0

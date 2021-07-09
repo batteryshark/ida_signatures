@@ -1,0 +1,13 @@
+XBOX Flirt - Fast Library Identification and Recognition Technology
+-------------------------------------------------------------------
+
+23/Dec/02 - 0.5b  - 5 basic xapi functions
+02/Jan/03 - v1.23 - Direct 3D labelling
+13/Jan/03 - v2.00 - Full SDK implemented, now labels all disassembled functions. 
+                    D3D/XAPI-net,input,gfx,core/DSOUND
+
+xbox.sig -> $IDA/sig  after complete disassembling has finished,
+File/Load Flirt
+
+[yAtEs]
+yates@reverse-engineering.info

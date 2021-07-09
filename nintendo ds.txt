@@ -1,0 +1,2 @@
+IDA Signature Files for NDS files.
+Put into ida/sig/arm/ directory and manually add them.

@@ -1,0 +1,10 @@
+
+This is signature file for 
+
+-----------------------------------------------------
+CryptLib Security Toolkit Version 3.0 Beta 4
+
+Copyright (c) Peter Gutmann 1992-2000, December 2000
+-----------------------------------------------------
+
+ (q) made by cr0aker / cr0aker@gmx.net / kickme.to/cr0aker

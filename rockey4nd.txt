@@ -1,0 +1,9 @@
+IDA Signature: Rockey4ND v1.x C++ library
+version: rev1
+
+2007.07.05 rev1:
+Add Rockey4ND v1.20
+
+2007.10.11 rev1:
+Add Rockey4ND v1.15
+Add Rockey4ND v1.16

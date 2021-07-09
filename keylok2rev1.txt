@@ -1,0 +1,4 @@
+IDA Signature: Key-lok II C++ library
+version: rev1
+
+2007.07.05 rev1:

@@ -1,0 +1,20 @@
+borland delphi 2005 flirt signature file for ida pro by servil
+--------------------------------------------------------------
+
+signature was made out of home-compiled runtimes from sourcecode coming along
+with the distribution:
+
+  - rtl
+  - vcl
+  - xml, db, websnap, soap, internet, indy9/10, ibx, intraweb, toolsapi
+
+sigfile recognizes versions from d2005 original to d2005 update3.
+full (globalized) names expansion.
+
+install:
+
+copy included delphi9.sig to %ida%\sig\ directory.
+
+enjoy
+
+servil
